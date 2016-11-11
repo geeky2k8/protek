@@ -1,1 +1,2 @@
 this is just text file.
+second line is added by dinu.
